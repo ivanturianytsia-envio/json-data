@@ -1,0 +1,52 @@
+[{
+    "name": "Office 2",
+    "id": 2
+},
+{
+    "name": "Office 3",
+    "id": 3
+},
+{
+    "name": "Office 4",
+    "id": 4
+},
+{
+    "name": "Office 5",
+    "id": 5
+},
+{
+    "name": "Kitchen",
+    "id": 6
+},
+{
+    "name": "Server room",
+    "id": 7
+},
+{
+    "name": "Meeting room 1",
+    "id": 8
+},
+{
+    "name": "Meeting room 2",
+    "id": 9
+},
+{
+    "name": "Meeting room 3",
+    "id": 10
+},
+{
+    "name": "Meeting room 4",
+    "id": 11
+},
+{
+    "name": "Lobby",
+    "id": 12
+},
+{
+    "name": "Meeting room 4",
+    "id": 13
+},
+{
+    "name": "Basement",
+    "id": 14
+}]
